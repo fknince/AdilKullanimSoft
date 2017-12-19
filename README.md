@@ -17,7 +17,7 @@
   
  <h1>Mobil Uygulama</h1>
  <li>Giriş Ekranı</li>
- <img src="https://mvsbcq.dm2302.livefilestore.com/y4mi6o2lq-BCsnEnOWgzmMPorIK3Vukodq9dzfC8jJUSax0DcfAes0NIPTZ_w7kwZjht1ZoTEUHvGhHifivWOvp7qBFBORCB98I2hiT9k0MfFUKq_F3Ye_GRH0QEAIBuVmnwwzYjnntixgOpz4TTUYGRA_w_GyUEyMFPUyWhGSptWDHIsHWCZ14byCx6hwNbfShgNC5no_j9kned6s_Lnf9Tw?width=540&height=960&cropmode=none" width="540" height="960" />
+ <img src="https://mvsbcq.dm2302.livefilestore.com/y4mi6o2lq-BCsnEnOWgzmMPorIK3Vukodq9dzfC8jJUSax0DcfAes0NIPTZ_w7kwZjht1ZoTEUHvGhHifivWOvp7qBFBORCB98I2hiT9k0MfFUKq_F3Ye_GRH0QEAIBuVmnwwzYjnntixgOpz4TTUYGRA_w_GyUEyMFPUyWhGSptWDHIsHWCZ14byCx6hwNbfShgNC5no_j9kned6s_Lnf9Tw?width=540&height=960&cropmode=none" width="300" height="500" />
  <h2>Özellikler</h2>
  <h3>Facebook ile giriş yapma.<h3>
  <h3>Ad , soyad ve resim bilgilerini çekme.</h3>
