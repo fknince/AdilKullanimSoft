@@ -21,5 +21,9 @@
  <h2>Özellikler</h2>
  <h3>Facebook ile giriş yapma.<h3>
  <h3>Ad , soyad ve resim bilgilerini çekme.</h3>
+ <li>Aksiyon Ekranı</li>
+ <img src="https://mvtmla.dm2302.livefilestore.com/y4m0AOvBZKeHb6DRbfKzotWvy2q0Y8n6fsHElUcuK-4pFldfL3x25up8NNd0jXFSInWs_Qvr28OeGhR9by0Fl5n4K8l6HuIozQYtmVn_85USRMSt5qo3OP8l0Ttubx0EAgVe0TPQqkMqZqA-BvOlMoeJipRKf1ogsfKVP4A7zBdW6YyDUDOg9Q0-mAq6x-5Z_XmLc5JxoVZgpO4DWEIC3_m9g?width=540&height=960&cropmode=none" width="360" height="500" />
+ 
+ 
   
 </ul>
