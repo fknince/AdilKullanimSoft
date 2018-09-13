@@ -30,10 +30,11 @@
  <li>Aksiyon Ekranı</li>
  <img src="https://mvtmla.dm2302.livefilestore.com/y4m0AOvBZKeHb6DRbfKzotWvy2q0Y8n6fsHElUcuK-4pFldfL3x25up8NNd0jXFSInWs_Qvr28OeGhR9by0Fl5n4K8l6HuIozQYtmVn_85USRMSt5qo3OP8l0Ttubx0EAgVe0TPQqkMqZqA-BvOlMoeJipRKf1ogsfKVP4A7zBdW6YyDUDOg9Q0-mAq6x-5Z_XmLc5JxoVZgpO4DWEIC3_m9g?width=540&height=960&cropmode=none" width="360" height="500" />
   <h2>Özellikler</h2>
- <h3>Klima açma/kapama talebinde bulunabilme</h3>
+ <h3>Klima açma/kapama talebinde bulunabilme.</h3>
  <h3>Ses ile klima açma/kapama talebinde blunabilme.<h3>
  
   <h1>Klimayı temsil eden Arduino kutusu</h1>
+  <img src="https://w3fbiw.am.files.1drv.com/y4mYLQ2rW2udkW0cDZyYzuxpW3PlhjIodOi0vBTshPKfI1tLeZAWZ0Xq3jnsDm4MWfyPRN3ZBOJag0qVRdGoaHFqDuO8_iFSbVCFujCdnrH-mpu8SDzupRaAJZJWZt9iztNlbVTzLgK11UF8jPqQgysIo9y-YWQ3IzTyS1YpxP1iEUieTxTeB2NTyTQZuozR3D7Abuv9JYozypWQhIGxW_wTw?width=493&height=660&cropmode=none"></img>
   
 
  
