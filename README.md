@@ -7,15 +7,18 @@
   <img src="https://mvvsmw.dm2302.livefilestore.com/y4msA9VgDKQroBKyUkdQep1yJv4e7prvITq1bCOyzY57UP19rRLvOTEwdJLnSNOKrkzDIki0bcwnTzS-HK1Y2wCGwf0RPlEtWBO-6IIw4Pldpr4iL8P3ce94dSo54gi6fTc9q7w7APehH3XPuZc8FrzV3orMvCOy2IL9kQCKSXZd1rJ6DCd1TJOS9B_wapIXBwSwuZDVCUxrXNsWWn6QjuPug?width=1366&height=768&cropmode=none" width="700" height="400" />
  
  [ÖNİZLEME](https://drive.google.com/open?id=135K5bqIIB3lQbss8c7QTCPUxiFk26AaD)
+ [ÖNİZLEME2](https://drive.google.com/open?id=1rgGND6JnCbM8UoslRPBwLn85ytca2bgM)
+ 
+ 
   <h2>Özellikler:</h2>
   <h3>Donanımdan gelen veriler eş zamanlı gözlemlenir.</h3>
   <h3>Aktif kullanıcılar listelenebilir.</h3>
   <h3>İstenilen kullanıcılar ile bağlantı kesilebilir.</h3>
-  <h3>Kullanıcıların donanıma dair talepleri takip edilir ve onaylanabilir/red edilebilir.</h3>
+  <h3>Kullanıcıların donanıma dair talepleri(açma/kapama) takip edilir ve onaylanabilir/red edilebilir.</h3>
   <h3>Aksiyonlar sonucu kullanıcılara bilgi mesajı otomatik gönderilir.</h3>
   <h3>İstenilen kullanıcının tüm bağlanma bilgileri(Log-in /Log-out) listelenebilir.</h3>
-  <h3>Seçilen donanımın tüm verileri listelenenilir</h3>
-  <h3>Seçilen donanımın ayarlarına eş zamanlı müdahale edilebilir</h3>
+  <h3>Seçilen donanımın tüm verileri listelenenilir(Zamana göre sıcaklık verileri vs.)</h3>
+  <h3>Seçilen donanımın ayarlarına eş zamanlı müdahale edilebilir.(Klimayı otomatik moda alma,açma,kapama vs.)</h3>
   <h3>Veriler eş zamanlı olarak dahili veritabanında tutulur.</h3>
   
  <h1>Mobil Uygulama</h1>
@@ -26,6 +29,13 @@
  <h3>Ad , soyad ve resim bilgilerini çekme.</h3>
  <li>Aksiyon Ekranı</li>
  <img src="https://mvtmla.dm2302.livefilestore.com/y4m0AOvBZKeHb6DRbfKzotWvy2q0Y8n6fsHElUcuK-4pFldfL3x25up8NNd0jXFSInWs_Qvr28OeGhR9by0Fl5n4K8l6HuIozQYtmVn_85USRMSt5qo3OP8l0Ttubx0EAgVe0TPQqkMqZqA-BvOlMoeJipRKf1ogsfKVP4A7zBdW6YyDUDOg9Q0-mAq6x-5Z_XmLc5JxoVZgpO4DWEIC3_m9g?width=540&height=960&cropmode=none" width="360" height="500" />
+  <h2>Özellikler</h2>
+ <h3>Klima açma/kapama talebinde bulunabilme</h3>
+ <h3>Ses ile klima açma/kapama talebinde blunabilme.<h3>
+ 
+  <h1>Klimayı temsil eden Arduino kutusu</h1>
+  
+
  
  
   
