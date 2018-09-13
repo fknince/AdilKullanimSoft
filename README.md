@@ -6,7 +6,7 @@
   <li>Aksiyon Paneli</li>
   <img src="https://mvvsmw.dm2302.livefilestore.com/y4msA9VgDKQroBKyUkdQep1yJv4e7prvITq1bCOyzY57UP19rRLvOTEwdJLnSNOKrkzDIki0bcwnTzS-HK1Y2wCGwf0RPlEtWBO-6IIw4Pldpr4iL8P3ce94dSo54gi6fTc9q7w7APehH3XPuZc8FrzV3orMvCOy2IL9kQCKSXZd1rJ6DCd1TJOS9B_wapIXBwSwuZDVCUxrXNsWWn6QjuPug?width=1366&height=768&cropmode=none" width="700" height="400" />
  
- 
+ [Oyun Önizleme](https://drive.google.com/file/d/1S3HnBGj0yDYFZoMLv7o0tsoAyj55Xmm9/view)
   <h2>Özellikler:</h2>
   <h3>Donanımdan gelen veriler eş zamanlı gözlemlenir.</h3>
   <h3>Aktif kullanıcılar listelenebilir.</h3>
