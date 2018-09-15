@@ -1,5 +1,7 @@
-<h1> Masaüstü Uygulaması </h1>
+
 <h2>Kafeler gibi ortak kullanımın olduğu alanlarda Klima,Ses Sistemi vs. gibi ekipmanların kullanımını daha adil hale getirilmesi için gerçekleştirilmiş bir projedir.Proje boyunca klima işlemleri Arduino ile simüle edilmiştir.Bilgisayar,Donanım ve Android Uygulaması iletişimi için bluetooth kullanılmıştır. </h2>
+
+<h1> Masaüstü Uygulaması </h1>
 <ul>
   <li>Yönetici Girişi</li>
   <img src="https://mvuhqa.dm2302.livefilestore.com/y4mIFO_EY2s1QuRu-3JjDlt1rlJXU6gSNG5FGTPM8nB5pKH2Kcse8Soj1GfmKWOHLoNOr8NSqpvJDP08kI3dH7Z8P1UIbJSzCAGRxlnygEjvjMwAdvArl7Nb8uiOY1hahqSrlctJuEONv5XVyTjSHM66pQvkNvjrQHvRQ8KrWJI_5wlTAcHYhH6yK9wcTL4qW3T5MGAwlmt257CoPUP4OBxdA?width=250&height=479&cropmode=none" width="250" height="479" />
@@ -7,7 +9,7 @@
   <img src="https://mvvsmw.dm2302.livefilestore.com/y4msA9VgDKQroBKyUkdQep1yJv4e7prvITq1bCOyzY57UP19rRLvOTEwdJLnSNOKrkzDIki0bcwnTzS-HK1Y2wCGwf0RPlEtWBO-6IIw4Pldpr4iL8P3ce94dSo54gi6fTc9q7w7APehH3XPuZc8FrzV3orMvCOy2IL9kQCKSXZd1rJ6DCd1TJOS9B_wapIXBwSwuZDVCUxrXNsWWn6QjuPug?width=1366&height=768&cropmode=none" width="700" height="400" />
  
  [ÖNİZLEME](https://drive.google.com/open?id=135K5bqIIB3lQbss8c7QTCPUxiFk26AaD)
- [ÖNİZLEME2](https://drive.google.com/open?id=1rgGND6JnCbM8UoslRPBwLn85ytca2bgM)
+
  
  
   <h2>Özellikler:</h2>
